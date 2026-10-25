@@ -1,11 +1,9 @@
-# GymLog Exercise Assets
+# DELT Exercise Assets
 
-This directory contains the 515 exercise GIF animations used directly by **GymLog**.
+597 exercise GIF animations (153.5 MiB), named by media ID.
 
-## Overview
-- **Total Files:** 515 GIF animations
-- **Total Size:** ~146.3 MB
-- **File Naming:** `<exercise_id>.gif` (matching `assets/db/exercises.json` IDs)
+The app reads these files from the public GitHub host. Catalog aliases in assets/db/exercises.json may share a media ID. Assets 0470.gif is unavailable and is not included.
 
 ## License
-Provided for use with GymLog application.
+Provided for use with the GymLog / DELT application.
+
